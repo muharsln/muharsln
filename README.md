@@ -1,6 +1,9 @@
+
 # 💫 About Me:
 🔭 I’m currently working on C# Dotnet Core<br>🌱 I’m currently learning Angular<br>💬 Ask me about<br>⚡ Fun fact
 
+<details>
+  <summary>More...</summary>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muharsln) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muharsln) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/muharsln) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/LastJuggler) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/muharsln) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCD4ZeRCPJ4oeQrd60p07eTw) 
@@ -23,5 +26,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muharsln&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</details>
